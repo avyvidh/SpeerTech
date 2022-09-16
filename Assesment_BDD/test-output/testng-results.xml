@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73694" started-at="2022-09-15T18:07:45Z" finished-at="2022-09-15T18:08:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73694" started-at="2022-09-15T18:07:45Z" finished-at="2022-09-15T18:08:58Z">
+      <class name="test.MyTestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.MyTestCase@51bd8b5c]" name="setup" is-config="true" duration-ms="1908" started-at="2022-09-15T14:07:45Z" finished-at="2022-09-15T14:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:test.MyTestCase@51bd8b5c]" name="beforeEachTest" is-config="true" duration-ms="1160" started-at="2022-09-15T14:07:47Z" finished-at="2022-09-15T14:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="submitForm()[pri:0, instance:test.MyTestCase@51bd8b5c]" name="submitForm" duration-ms="69857" started-at="2022-09-15T14:07:48Z" finished-at="2022-09-15T14:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:test.MyTestCase@51bd8b5c]" name="afterEachTest" is-config="true" duration-ms="2" started-at="2022-09-15T14:08:58Z" finished-at="2022-09-15T14:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.MyTestCase@51bd8b5c]" name="tearDown" is-config="true" duration-ms="727" started-at="2022-09-15T14:08:58Z" finished-at="2022-09-15T14:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.MyTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
